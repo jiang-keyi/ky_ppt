@@ -1,11 +1,11 @@
 # ky_ppt
 
-**把科研图/示意图本地免费重建为可编辑的 PowerPoint 或 Adobe Illustrator 文件。**
+**把各种流程图/机制图重建为可编辑的 PowerPoint 或 Adobe Illustrator 文件。**
+**把PDF论文做成可以答辩汇报的PowerPoint 文件。**
 
 一张 PNG/JPG/WebP 科研示意图进去，一个全是原生可编辑形状和文本框的 PPTX（或 AI 文件）出来。
-全程本地运行：不联网、不需要 API Key、零费用。
 
-内置开源绘图后端（MIT，见 LICENSE），图片识别与矢量化全部本地完成，零费用。
+内置开源绘图后端（MIT，见 LICENSE），图片识别与矢量化全部本地完成。
 
 ## 三层架构
 
