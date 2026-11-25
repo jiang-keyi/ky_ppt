@@ -25,7 +25,7 @@
 
 ## 安装
 
-### 作为 Agent Skill（豆包办公 / 其他支持 SKILL.md 的 Agent）
+### 作为 Agent Skill（Codex、Claude Code / 其他支持 SKILL.md 的 Agent）
 
 把本仓库整个文件夹放进 Agent 的用户技能目录（例如豆包办公的
 `<workspace>/.user_skills/ky_ppt`），新会话即可通过自然语言触发：
