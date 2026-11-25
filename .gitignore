@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+runtime-profile.json
+test/
+out/
+output/
+*.pptx
+*.ai
+.cell-ppt-cache/
+.illustrator-cache/
